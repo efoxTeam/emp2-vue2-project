@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
-    "@efox/emp": "^2.0.0-beta.16",
+    "@efox/emp": "^2.0.3",
     "@efox/eslint-config-vue": "^2.0.0",
     "@efox/plugin-vue-2": "^1.0.2"
   },
